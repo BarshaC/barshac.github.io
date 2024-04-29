@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - barshac
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Barshac/ChainLitWithLlama2
+  - BarshaC/ThriftBooksCapstoneProject
+  - BarshaC/BeRealCloneExtended
+  - BarshaC/FlixsterPart2KotlinCodepath
+  - BarshaC/TwitterAppCodePath
+  - BarshaC/amplify-react-fullstack
