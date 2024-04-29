@@ -2,24 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Senior at Howard University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+    <p>Located:</p>
+    <p>Washington, DC</p>
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>Hello! My name is Barsha Chaudhary, and I am currently a senior at Howard University, pursuing a degree in Computer Science. Alongside my studies, I serve as a Teaching Fellow in collaboration with the National Educational Equity Lab, Khan Academy and Department of Mathematics. In this role, I support high school students navigating their College Algebra courses, bridging the gap between secondary education and college readiness.</p>
+<p>My passion for technology extends into the realm of application development, both web and mobile platforms. I am actively engaged in a project that explores the capabilities of Large Language Models and Retrieval-Augmented Generation, pushing the boundaries of what's possible in modern tech. As a tech enthusiast, I thrive during Hackathons, often diving deep into coding challenges overnight and relishing the dynamic problem-solving environment these events provide.</p>
