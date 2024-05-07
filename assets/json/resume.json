@@ -35,7 +35,7 @@
       "url": "https://example.com",
       "startDate": "2023-05-22",
       "endDate": "2023-08-16",
-      "summary": "Interned for Google Drive Restore team and worked on building monitoring dashboard to understand internal server.",
+      "summary": "Interned with Google Drive Restore team and worked on building monitoring dashboard to understand internal server.",
       "highlights": [
           "Developed a comprehensive monitoring dashboard for the Google Drive Restore team enabling real-time visualization of server states, error identification, and process latency assessment.",
           "Utilized Kotlin, SQL, and Java to collect and store data and creation of dashboard from scratch, which helped the team to deeply understand the overall internal state of server."
