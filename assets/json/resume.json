@@ -35,7 +35,7 @@
       "url": "https://example.com",
       "startDate": "2023-05-22",
       "endDate": "2023-08-16",
-      "summary": "Worked with Meta Engineers to develop an Android application which allows users to buy and sell used books and message other users like Facebook Marketplace.",
+      "summary": "Interned for Google Drive Restore team and worked on building monitoring dashboard to understand internal server.",
       "highlights": [
           "Developed a comprehensive monitoring dashboard for the Google Drive Restore team enabling real-time visualization of server states, error identification, and process latency assessment.",
           "Utilized Kotlin, SQL, and Java to collect and store data and creation of dashboard from scratch, which helped the team to deeply understand the overall internal state of server."
@@ -149,7 +149,7 @@
         "React",
         "SwiftUI",
         "APIs",
-        "routes",
+        "SQL",
         "SDKs",
         "Firebase",
         "Full-stack"
@@ -171,11 +171,18 @@
   "projects": [
     {
       "name": "Beats Mobile App",
-      "summary": "A cross-platform mobile app that creates music playlists for the user based on their prompts.",
-      "highlights": ["Developed with ReactNative which could create music playlists based on prompt entered by users.", "Utilized Generative AI - Gemini, Google Search API, Youtube API to make the full stack app."],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "summary": "A cross-platform mobile app that creates music playlists for the user based on user prompts.",
+      "highlights": ["First Place Winner of Google HBCU Hackathon.", "Developed with ReactNative which could create music playlists based on prompt entered by users.", "Utilized Generative AI - Gemini, Google Search API, Youtube API to make the full stack app."],
+      "startDate": "2024-02-21",
+      "endDate": "2024-02-23",
+      "url": "https://github.com/BarshaC/googlehack"
+    },
+    {
+      "name": "BisonBot",
+      "summary": "AI-powered chatbot designed to enhance the user experience on Howard University's website",
+      "highlights": ["Under developing Bot to have converstation about Howard University.", "Uses Open AI model along with ChainLit for user interface which also handles communication between model and front end.", "Uses LangChain to create pipeline for Retrieval-Augmented Generation application and ChromaDB to store embedding data."],
+      "startDate": "2024-03-10",
+      "endDate": "2024-11-08"
     }
   ]
 }
