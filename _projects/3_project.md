@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Twitter Clone
-description: Android app that allows users to posts short posts known as tweets
+description: Clone of twitter to post short posts as twitter
 img: assets/img/7.jpg
 importance: 3
 category: work
