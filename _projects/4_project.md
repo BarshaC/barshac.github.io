@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chat with Llama 2
+title: chat with Llama2
 description: Web-UI based LLM application
 img: assets/img/chatApp.jpg
 importance: 3
@@ -9,4 +9,4 @@ category: fun
 
 This chat app integrates the LLaMA-2 model, enabling intelligent, real-time conversations through a user-friendly interface built with Chainlit. Users can engage effortlessly with the AI, exploring a variety of topics in a dynamic and interactive environment.
 
-<img src="https://private-user-images.githubusercontent.com/64405568/329009405-be9a6ace-9a50-4efc-a817-5a0436a29cf7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUxOTc1MTEsIm5iZiI6MTcxNTE5NzIxMSwicGF0aCI6Ii82NDQwNTU2OC8zMjkwMDk0MDUtYmU5YTZhY2UtOWE1MC00ZWZjLWE4MTctNWEwNDM2YTI5Y2Y3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA4VDE5NDAxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI3MzJjOTk4YmFlNDc0NDVmZGFlNmQ1MjE3ZTgxMmE5ZWRkOGY1MjZmZTFlMjRmZjIwYzBiZWZmNTVlODllNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WIh52XWUktniswOwm6GNUylRYyProH3Ga4NPxk26Fro" alt="Demo of the app">
+<img src="https://github.com/Barsha-s-Workspace/gifs-for-diff-projects/blob/main/chainlit.gif?raw=true" alt="Demo of the app">
