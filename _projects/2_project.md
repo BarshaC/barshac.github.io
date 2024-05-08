@@ -1,81 +1,52 @@
 ---
 layout: page
-title: project 2
-description: page under development
-img: assets/img/11.jpg
+title: ThriftBooks
+description: Connect, Share and Discover Books with Ease.
+img: assets/img/2.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
+<a href="https://github.com/BarshaC/ThriftBooksCapstoneProject" target="_blank">Visit the GitHub repository</a>
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<p>
+This was my capstone project for my Meta University Engineering Internship. ThriftBooks can be used by the users to sell, buy and rent used books. App is mainly targeted for the people who generally love reading books and like sharing it with people of similar interests.People can follow each other, comment and message to reach out to buy books. </p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+<h2>Understanding the user stories</h2>
+To give a background about the project, understanding the user stories let's look at what users are able to achieve by using this app.
+<!-- Features Section --> 
+<div class="features-section">
+        <ul class="features-list">
+        <li>Users can signup and login to post books</li>
+        <li>Pick their favorite genre of the book [fictional/non-fictional/educational]
+</li>
+        <li>Compose page to post their books where either they can choose pictures from the library or click pictures with their camera.
+</li>
+        <li>Search for different keywords along with different filters (title of books, author, release date)
+</li>
+    </ul>
+</div> --> -->
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<h2>Setting up the project</h2>
+<p>
+<div class="features-section">
+    
+    <ul class="features-list">
+        <li>Android Studio with different libraries for UI </li>
+        <li>SDKs from Facebook and Google for easy sign up and loggin in
+</li>
+        <li> API : Google Books
+</li>
+        <li> Google Cloud Messaging for Real time messaging
+</li>
+    </ul>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/64405568/182931591-621a03b8-cef3-4f03-a546-08e38daea454.gif" alt="Demo of the app">
+</p>

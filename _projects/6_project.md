@@ -1,80 +1,28 @@
 ---
 layout: page
-title: project 6
-description: Will be adding soon
+title: Bisonbot
+description: ChatBot using Open AI and chainlit
 img:
 importance: 4
 category: fun
 ---
+This is the part of my Senior Project: under-developing project so I currently do not have any demo for this project but will be adding soon.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<p>
+The BisonBot project is a revolutionary AI-powered system designed to enhance the user experience on Howard University's website. Faced with the challenge of navigating a complex site structure filled with excessive information, users often experience frustration and difficulty in finding the necessary content. BisonBot addresses these issues by providing a user-friendly, accessible chatbot that guides users through the website, offering personalized assistance 24/7. By leveraging Natural Language Processing and GitHub OAuth for secure logins, BisonBot simplifies the search for information, ensuring that users can efficiently navigate the website and find what they need without hassle. </p>
+<p>
+Key features of BisonBot include the ability to log in with GitHub, initiate conversations on any university-related topic, and receive context-based responses. The system is designed to be intuitive, allowing users to explore popular topics, view chat histories, and even listen to responses, enhancing the overall user interaction. Additional features planned for future updates include third-party login integration, multilingual support, and an embedded chat icon on every page, which will further improve accessibility and user satisfaction.
+</p>
+<p>
+Behind the scenes, BisonBot operates on a robust backend developed in Python and integrated with the OpenAI API, supported by a frontend that uses Chainlit for an engaging user interface. The system processes data through a series of steps that include data gathering from Howard webpages, converting this data into vector embeddings, and using these embeddings to generate accurate responses to user queries. This comprehensive approach ensures that BisonBot not only meets but exceeds the needs of Howard University's diverse community by providing a responsive and highly functional virtual assistant. </p>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="features-section">
+    <h2>Tech used</h2>
+    <ul class="features-list">
+        <li>Chainlit</li>
+        <li>LangChain to create pipeline for Retrieval-Augmented Generation application 
+</li>
+        <li> ChromaDB to store embedding data
+</li>
+    </ul>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

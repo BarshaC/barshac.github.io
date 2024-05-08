@@ -64,5 +64,6 @@ Now, let's look at the features of the application.
         {% include figure.liquid loading="eager" path="assets/img/profile.jpg" title="Profile" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<h3>Here is the detailed demo</h3>
 
-<a href="https://github.com/IFriendsDAB/IFriends" target="_blank">You can see the detail demo in github repo.</a>
+<img src="https://private-user-images.githubusercontent.com/64405568/328676907-83f7b935-73da-4463-a73b-1d412d45eda4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUxMTY1NzUsIm5iZiI6MTcxNTExNjI3NSwicGF0aCI6Ii82NDQwNTU2OC8zMjg2NzY5MDctODNmN2I5MzUtNzNkYS00NDYzLWE3M2ItMWQ0MTJkNDVlZGE0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA3VDIxMTExNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5YzQ3NDgxMzI4NjY4NTQxYWZlZDVmOTFiYWRlZjVkYTQ0YTE4YzBlZGMwMTdlYzE0ZmE2NTkwM2M0MDEyOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._56D6kWpulTGkHfWarFEjWM6aWmALF5oAzJ__EyOuEc" alt="Demo of the app">
