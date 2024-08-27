@@ -5,7 +5,7 @@
     "image": "",
     "email": "barsha.chaudhary@bison.howard.edu",
     "url": "https://barshac.github.io/",
-    "summary": "Undergrate senior who builds apps and currently exploring Machine Learning and researching into LLM.",
+    "summary": "Undergraduate graduating senior who builds apps and currently exploring Machine Learning and researching into LLM.",
     "location": {
       "city": "Washington",
       "countryCode": "US",
@@ -23,7 +23,7 @@
     {
       "name": "Seattle, Washington",
       "position": "Meta University Engineering Intern",
-      "url": "https://example.com",
+      "url": "https://www.metacareers.com/careerprograms/pathways/metauniversity",
       "startDate": "2022-05-31",
       "endDate": "2022-08-11",
       "summary": "Worked with Meta Engineers to develop an Android application which allows users to buy and sell used books and message other users like Facebook Marketplace.",
@@ -32,7 +32,7 @@
     {
       "name": "Los Angeles, California",
       "position": "Google STEP Intern",
-      "url": "https://example.com",
+      "url": "https://buildyourfuture.withgoogle.com/programs/step",
       "startDate": "2023-05-22",
       "endDate": "2023-08-16",
       "summary": "Interned with Google Drive Restore team and worked on building monitoring dashboard to understand internal server.",
@@ -40,7 +40,19 @@
           "Developed a comprehensive monitoring dashboard for the Google Drive Restore team enabling real-time visualization of server states, error identification, and process latency assessment.",
           "Utilized Kotlin, SQL, and Java to collect and store data and creation of dashboard from scratch, which helped the team to deeply understand the overall internal state of server."
       ]
-  }
+  },
+  {
+    "name": "Kirkland, Washington",
+    "position": "Software Engineering Intern",
+    "startDate": "2024-05-13",
+    "endDate": "2024-08-16",
+    "summary": "Interned with Gmail EngProd team and worked on building a tool for automated test migration.",
+    "highlights": [
+        "Developed a tool for the Gmail Web EngProd team to streamline manual migration of tests.",
+        "Designed and implemented the design with thorough testing ensuring the tool is user-friendly and easy to use.",
+        "Utilized Java and internal tools to build the tool from scratch, which could help to streamline migration of the tests by 80%."
+    ]
+}
   
   ],
   "education": [
@@ -85,10 +97,17 @@
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Codepath Course Completion for Intermediate Android Development course",
+      "name": "Codepath Intermediate Android Development course",
       "date": "2022",
       "issuer": "Codepath",
       "url": "https://drive.google.com/file/d/1HEOwVNaHeoLvdRpN_r8bbuQfXIbKwhFR/view",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name" : "Codepath Intermediate IOS Development course",
+      "date" : "2024",
+      "issuer" : "Codepath",
+      "url" : "https://drive.google.com/file/d/181mXOWE6dUHgksBbsvY9nF0bjAvZWEHn/view",
       "icon": "fa-solid fa-location-dot"
     }
   ],
@@ -113,7 +132,6 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Flask",
-        "Django",
         "ReactNative",
         "Android",
         "SwiftUI"
